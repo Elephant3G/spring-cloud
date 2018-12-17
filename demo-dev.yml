@@ -1,1 +1,6 @@
-name:  elephant
+server:
+  port: 8781
+spring:
+  application:
+    name: service-demo
+name: demo
