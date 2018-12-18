@@ -13,7 +13,7 @@ spring:
     port: 5672
     username: guest
     password: guest
-name: test 变化
+name: english only
 management:
   endpoints:
     web:
